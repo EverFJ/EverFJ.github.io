@@ -1,0 +1,1 @@
+# vanlify-page-static
